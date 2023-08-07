@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LianLian0915
 - 👀 I’m interested in playing games
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, C++
+- 💞️ I’m looking to collaborate on GDUT
 - 📫 How to reach me : qq395641632, mail as qq mail before
 
 <!---
