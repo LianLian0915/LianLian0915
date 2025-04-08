@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LianLian0915
 - 👀 I’m interested in playing games
 - 🌱 I’m currently learning Python, C++
-- 💞️ I’m graduated from GDUT, and working for a Robot Company in Shenzhen
+- 💞️ I’m graduated from GDUT, and working in Shenzhen
 - 📫 How to reach me : qq395641632, mail as qq mail before
 
 <!---
